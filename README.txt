@@ -21,10 +21,6 @@ to improve generalization and performance.
 
 ## Installation
 
-1. Clone this repository:
-git clone https://github.com/yourusername/CIFAR10-CNN.git
-cd CIFAR10-CNN
-
     2. Install dependencies:
 pip install -r requirements.txt
 Usage
